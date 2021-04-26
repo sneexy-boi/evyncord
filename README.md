@@ -1,3 +1,6 @@
+# archived
+made as a project for a friend who wanted a purple discord theme but found out PurpleCord exists, so if you use this i recommend you switch over to that (https://github.com/A-Trash-Coder/PurpleCord)
+
 # evyncord
 Simple Powercord theme that resembles different shades of purple.
 
